@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sagarmagar000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar magar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar magar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar-magar-1366582b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar magar" height="30" width="40" /></a>
 <a href="https://fb.com/sagar.arghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar arghali" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_arghali.mgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_arghali.mgr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sagarmagar8206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar magar" height="30" width="40" /></a>
