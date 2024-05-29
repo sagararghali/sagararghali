@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **dynamic project.**
 
-- 👨‍💻 All of my projects are available at [loading..](loading..)
+- 👨‍💻 All of my projects are available at (portfolio link)[loading..](loading..)
 
 - 💬 Ask me about **react, Html, Css, JS etc..**
 
 - 📫 How to reach me **sagararghalimagar@gmail.com**
 
-- 📄 Know about my experiences [loading...](loading...)
+- 📄 Know about my experiences (Resume)[loading...](loading...)
 
 - ⚡ Fun fact **The first computer bug was a literal bug!**
 
