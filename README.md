@@ -1,3 +1,4 @@
+![logo](https://github.com/sagararghali/sagararghali/blob/main/maxresdefault%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Sagar Arghali</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3><br>
 
