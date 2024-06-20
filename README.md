@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sagararghalimagar@gmail.com**
 
-- 📄 Know about my experiences (Resume link)[loading...](loading...)
+- 📄 Know about my experiences in Resume(https://drive.google.com/file/d/15-6GhMZ3Eb1lvkBz67CpcyqvocR2GDAm/view?usp=drivesdk) 
 
 - ⚡ Fun fact **The first computer bug was a literal bug!**
 
