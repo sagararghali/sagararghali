@@ -1,5 +1,5 @@
 ![logo](https://github.com/sagararghali/sagararghali/blob/main/maxresdefault%20(1).jpg)
-<h1 align="center">Hi 👋, I'm Sagar Arghali.</h1>
+<h1 align="center">Hi 👋, I'm Owner of Comic World.</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3><br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagararghali&label=Profile%20views&color=0e75b6&style=flat" alt="sagararghali" /> </p>
 
